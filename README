@@ -1,0 +1,3 @@
+Install python-cloudfiles from here http://github.com/rackspace/python-cloudfiles
+Install duplicity from source from the homepage (http://duplicity.nongnu.org).
+Get your API Key from https://www.rackspacecloud.com/ and use this script. 
